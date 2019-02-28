@@ -720,12 +720,12 @@
     background-size: 100% 100%;
   }
   section:nth-of-type(3) #gallery .mix:nth-child(3) .card {
-    background: url("../img/s&j.png") center center/cover;
+    background: url("../img/Lambda-Times.png") center center/cover;
     background-size: 100% 100%;
   }
   section:nth-of-type(3) #gallery .mix:nth-child(4) .card {
-    background: url("../img/NewsApp.jpg") center center/cover;
-    background-size: 100% 100%;
+    background: url("../img/Screen\ Shot\ 2019-02-27\ at\ 11.06.09\ PM.png") center center/cover;
+    background-size: 200% 100%;
   }
   section:nth-of-type(3) #gallery .mix:nth-child(5) .card {
     background: url("../img/Cocktails.jpg") center center/cover;
