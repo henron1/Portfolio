@@ -732,10 +732,10 @@
     background-size: 100% 100%;
   }
   section:nth-of-type(3) #gallery .mix:nth-child(6) .card {
-    background: url("../img/weather-app.png") center center/cover;
+    background: url("../img/BookMaps.png") center center/cover;
     background-size: 100% 100%;
   }
-  section:nth-of-type(3) #gallery .mix:nth-child(7) .card {
+  /* section:nth-of-type(3) #gallery .mix:nth-child(7) .card {
     background: url("../img/instagramClone.png") center center/cover;
     background-size: 100% 100%;
   }
@@ -757,8 +757,8 @@
   }
   section:nth-of-type(3) #gallery .mix:nth-child(12) .card {
     background: url("../img/thumb-12.html") center center/cover;
-    background-size: 100% 100%;
-  }
+    background-size: 100% 100%; 
+   } */
   section:nth-of-type(3) #gallery .mix .card {
     height: 240px;
     max-width: 100%;
